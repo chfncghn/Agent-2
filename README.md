@@ -6,5 +6,5 @@ git clone https://github.com/chfncghn/Agent-2
 cd Agent-2
 python agent2.py
 ```
-# This ransomware is totally stealthy do not upload to github
+# This ransomware is totally stealthy do not upload to virustotal
 # For latest version of Agent2 check out for releases 
